@@ -13,3 +13,6 @@ This dataset has 480 observations (n=480) and 42 variables (p=42). The following
 We used the following code to standardize the numerical predictors:
 
 ![alt text](https://raw.githubusercontent.com/juliazhu1122/sta9890project/master/img/1.png)
+
+## Models Time and Performance Comparison
+![alt text](https://raw.githubusercontent.com/juliazhu1122/sta9890project/master/img/6.png)
