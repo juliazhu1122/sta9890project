@@ -1,4 +1,7 @@
 # STA9890 Spring 2020 Project
+- [R Code](https://github.com/juliazhu1122/sta9890project/blob/master/sta9890_main_code.R)
+- [Presentation Slides](https://github.com/juliazhu1122/sta9890project/blob/master/sta9890_presentation.pdf)
+- [Presentation Video]()
 
 ## Dataset Introduction
 For this project, we would like to use related factors to predict life expectancy. We extracted World Development Indicators of twenty four countries from [World Bank Databank](https://databank.worldbank.org/source/world-development-indicators/preview/on). World Development Indicators (WDI) is the primary World Bank collection of development indicators, compiled from officially recognized international sources.
